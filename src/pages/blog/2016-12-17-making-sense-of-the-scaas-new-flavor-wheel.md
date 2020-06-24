@@ -4,7 +4,7 @@ title: Things i like the most
 date: 2016-12-17T15:04:10.000Z
 description: "bad things "
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/latesr.jpg
 tags:
   - flavor
   - tasting
